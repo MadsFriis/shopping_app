@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To apply for an internship at Pentia, they have an assignment to test your knowledge and skills in Ruby on Rails. And this is my solution.
 
 Things you may want to cover:
 
